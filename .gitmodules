@@ -1,0 +1,12 @@
+[submodule "nickspies-codex/app/ragflow"]
+	path = nickspies-codex/app/ragflow
+	url = https://github.com/infiniflow/ragflow
+[submodule "nickspies-codex/app/app/ragflow"]
+	path = nickspies-codex/app/app/ragflow
+	url = https://github.com/infiniflow/ragflow
+[submodule "nickspies/app/nickspies/app/ragflow"]
+	path = nickspies/app/nickspies/app/ragflow
+	url = https://github.com/infiniflow/ragflow.git
+[submodule "nickspies/app/ragflow"]
+	path = nickspies/app/ragflow
+	url = https://github.com/infiniflow/ragflow.git
